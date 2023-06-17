@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My first Blog",
+      "body": "lorem...",
+      "author": "John Catridge",
+      "id": 1
+    },
+    {
+      "title": " Learning React",
+      "body": "lorem...",
+      "author": "Ritche dom",
+      "id": 2
+    },
+    {
+      "title": "React.js fundamentals",
+      "body": "lorem",
+      "author": "Tee Akins",
+      "id": 3
+    }
+  ]
+}
