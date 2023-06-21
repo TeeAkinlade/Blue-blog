@@ -1,22 +1,18 @@
 {
   "blogs": [
     {
-      "title": "My first Blog",
-      "body": "lorem...",
-      "author": "John Catridge",
-      "id": 1
+      "title": "testing the blog",
+      "datetime": "June 20, 2023 2:26:47 PM",
+      "author": "Taiye Akinlade",
+      "body": "This is the first blog body of the react.js blog application designed by me",
+      "id": 8
     },
     {
-      "title": " Learning React",
-      "body": "lorem...",
-      "author": "Ritche dom",
-      "id": 2
-    },
-    {
-      "title": "React.js fundamentals",
-      "body": "lorem",
-      "author": "Tee Akins",
-      "id": 3
+      "title": "2nd blog ",
+      "datetime": "June 20, 2023 3:00:35 PM",
+      "author": "yo ",
+      "body": "testing the second blog",
+      "id": 10
     }
   ]
 }

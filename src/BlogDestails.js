@@ -21,8 +21,9 @@ const BlogDestails = () => {
         {blog && (
           <article>
             <h2>{blog.title}</h2>
+            <p className="blogDate">Posted on: {blog.datetime}</p>
             <p>{blog.author}</p>
-            <div>{blog.body}</div>
+            <div className='bodyStyle'>{blog.body}</div>
             <button onClick={handleDelete}>Delete</button>
           </article>
             )}

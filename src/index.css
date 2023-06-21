@@ -43,8 +43,25 @@
   box-shadow: 1px 2px 5px rgb(240, 40, 40);
 }
 .preview p{
-  color: rgb(241, 66, 66);
-  font-size: small;
+  font-size:12px;
+  margin: 0.4em;
+}
+
+.preview .blogDate{
+  color:#000;
+}
+
+.preview .bodyStyle{
+  margin-top: 0.6em;
+  color: #000;
+  font-size: 14px;
+}
+
+.blog-details .blogDate{
+  color: #575555;
+}
+.blog-details .bodyStyle{
+  margin-top: 1em ;
 }
 .blog-preview > h2{
   text-align: start;
@@ -67,8 +84,9 @@
   font-size: 14px;
 }
 .blog-details p{
-  font-size: 14px;
+  font-size: 12px;
   margin-bottom: 10px;
+  color:black;
 }
 
 .create{
@@ -102,4 +120,8 @@ button{
   border-radius: 6px;
   align-items: start;
   margin-top: 10px;
+}
+
+.noPost{
+  margin-top: 4em;
 }

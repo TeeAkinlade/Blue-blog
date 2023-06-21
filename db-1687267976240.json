@@ -1,0 +1,60 @@
+{
+  "blogs": [
+    {
+      "title": "test blog",
+      "body": "testing the blog",
+      "author": "Akinlade Taiye",
+      "id": 1
+    },
+    {
+      "title": "react tutorial",
+      "body": "i am learning react.js using Dave Gray youtube videos",
+      "author": "tee akins",
+      "id": 2
+    },
+    {
+      "title": "react tutorial",
+      "body": "i am learning react.js using Dave Gray youtube videos",
+      "author": "tee akins",
+      "id": 3
+    },
+    {
+      "title": "react tutorial",
+      "body": "i am learning react.js using Dave Gray youtube videos",
+      "author": "tee akins",
+      "id": 4
+    },
+    {
+      "title": "react tutorial",
+      "body": "i am learning react.js using Dave Gray youtube videos",
+      "author": "tee akins",
+      "id": 5
+    },
+    {
+      "title": "react tutorial",
+      "body": "i am learning react.js using Dave Gray youtube videos",
+      "author": "tee akins",
+      "id": 6
+    },
+    {
+      "title": "react tutorial",
+      "body": "i am learning react.js using Dave Gray youtube videos",
+      "author": "tee akins",
+      "id": 7
+    },
+    {
+      "title": "testing the blog",
+      "datetime": "June 20, 2023 2:26:47 PM",
+      "author": "Taiye Akinlade",
+      "body": "This is the first blog body of the react.js blog application designed by me",
+      "id": 8
+    },
+    {
+      "title": "testing the blog",
+      "datetime": "June 20, 2023 2:27:00 PM",
+      "author": "Taiye Akinlade",
+      "body": "This is the first blog body of the react.js blog application designed by me",
+      "id": 9
+    }
+  ]
+}

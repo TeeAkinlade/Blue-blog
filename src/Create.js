@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { useHistory} from 'react-router-dom'
+import { format } from 'date-fns'
 
 const Create = () => {
   const [title, setTitle] = useState('')
@@ -9,7 +10,8 @@ const Create = () => {
 
   const handleSubmit = (e) =>{
     e.preventDefault();
-    const blog = {title, body, author}
+    const datetime = format(new Date(), 'MMMM dd, yyyy pp')
+    const blog = {title, datetime, author, body}
 
     fetch('http://localhost:6050/blogs',{
       method: 'POST',
